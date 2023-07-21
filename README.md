@@ -17,7 +17,7 @@ The main objective is to perform crypto clustering analysis using Python and Uns
 
 ## Getting Started
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Run the file 'Crypto_Clustering.ipynb' for database creation and update.
+2. Run the file 'Crypto_Clustering.ipynb' for data analysis and visualization.
    
 
 References
